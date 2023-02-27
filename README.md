@@ -1,0 +1,3 @@
+- 👋 I’m Zeno Rüfenacht
+- 💬 I am currently in the apprenticeship as a mediamatician
+- 📫 How to reach me: mail@zeno-ruefenacht.com
