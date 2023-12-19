@@ -1,4 +1,4 @@
 - 👋 I’m Zeno Rüfenacht
 - 💬 I am currently in the apprenticeship as a mediamatician
 - 📫 How to reach me: <mail@zeno-ruefenacht.com>
-- Visit my website under: <a href="https://zeno-ruefenacht.com" target = blank>zeno-ruefenacht.com</a>
+- Visit my website under: <a href="https://zeno-ruefenacht.com" target="_blank">zeno-ruefenacht.com</a>
